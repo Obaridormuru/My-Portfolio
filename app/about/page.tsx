@@ -51,8 +51,7 @@ export default function About() {
         <h1 className="text-3xl font-bold ml-5">About Me</h1>
         <Card>
           <CardContent className="prose prose-gray dark:prose-invert p-6">
-            <p>
-Hello!, I'm Ojinga-Ochindo Obaridormuru, a passionate UI/UX Designer dedicated to crafting intuitive and visually engaging digital experiences. I thrive on turning complex ideas into simple, user-friendly interfaces that leave a lasting impression.            </p>
+            <p>Hello!, I'm Ojinga-Ochindo Obaridormuru, a passionate UI/UX Designer dedicated to crafting intuitive and visually engaging digital experiences. I thrive on turning complex ideas into simple, user-friendly interfaces that leave a lasting impression.</p>
             <p>
               Beyond the screen, I bring creativity to life through hand-drawing, where every sketch hones my attention to detail and design sensibilities. I’m also a dedicated gamer, constantly inspired by immersive storytelling and interactive design that fuel my approach to creating engaging user interfaces.
             </p>
